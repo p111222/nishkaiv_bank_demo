@@ -1,7 +1,7 @@
 import Keycloak from 'keycloak-js';
 
 const keycloak = new Keycloak({
-  url: 'http://api.kriate.co.in:8346',
+  url: 'http://43.204.108.73:8346',
   realm: 'nishkaiv-bank',
   clientId: 'sector-1',
 });
